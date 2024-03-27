@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/athul_bhaskaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athul_bhaskaran" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/athul-bhaskaran-72932518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athul bhaskaran" height="30" width="40" /></a>
-<a href="https://fb.com/athul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="athul" height="30" width="40" /></a>
+<a href="https://www.facebook.com/athulbhaskaran.bhaskaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="athul" height="30" width="40" /></a>
 <a href="https://instagram.com/_athul_bhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_athul_bhaskar" height="30" width="40" /></a>
 </p>
 
