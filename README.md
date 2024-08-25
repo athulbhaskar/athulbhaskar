@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/athul_bhaskaran" target="blank"><img src="https://img.shields.io/twitter/follow/athul_bhaskaran?logo=twitter&style=for-the-badge" alt="athul_bhaskaran" /></a> </p>
 
-- 🔭 I’m currently working on **Kenya Nut**
+- 🔭 I’m currently working on **CSL(Coast Soccer League,Android app in play store )**
 
 - 🌱 I’m currently learning **Flutter**
 
